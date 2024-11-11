@@ -1,5 +1,5 @@
-## ENTER YOUR NAME: A.JEEVITH
-## ENTER YOUR REGISTER NO. 212223240059
+## ENTER YOUR NAME: GURU REVANTH KUMARAVEL RADHIKA
+## ENTER YOUR REGISTER NO. 212223230065
 ## EX. NO.3
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
